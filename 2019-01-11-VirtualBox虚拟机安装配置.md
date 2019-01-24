@@ -31,6 +31,7 @@ tags: VirtualBox Ubuntu
 
 #### 虚拟电脑网络配置
 选中虚拟电脑点击设置按钮进入网络选项卡，网卡1中连接方式选择“仅主机（Host-Only)网络”，界面名称选择已创建好的“VirtualBox Host-Only Ehternet Adapter”，混杂模式为“全部允许”，勾选“接入网线”，配置完成如下：
+
 ![虚拟电脑网络配置](https://tikq.github.io/assets/image/blog/2019/2019-01-11_11-26-58.jpg)
 
 
